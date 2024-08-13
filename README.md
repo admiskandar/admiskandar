@@ -1,9 +1,6 @@
 <h1 align="center">Elo 👋, I'm Iskandar</h1>
 <h3 align="center">A passionate Software Engineer from Malaysia 🇲🇾</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=admiskandar&label=Profile%20views&color=0e75b6&style=flat" alt="admiskandar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=admiskandar" alt="admiskandar" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
