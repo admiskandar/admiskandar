@@ -1,7 +1,7 @@
 <h1 align="center">Elo I'm Iskandar 👋</h1>
 <h3 align="center">A passionate Software Developer from Malaysia 🇲🇾</h3>
 
-- 🧑🏻‍💻 I’m currently using **LAMP Stack** and in the same time 📚 exploring and learning **MERN Stack**
+- 🔧 Proficient in **LAMP Stack** development, creating reliable server-side solutions. Simultaneously expanding my expertise by delving into the **MERN Stack**, exploring modern JavaScript technologies to enhance my full-stack development skills. 🌐
 
 - 📫 How to reach me **admiskandar@gmail.com**
 
