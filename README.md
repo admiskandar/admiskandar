@@ -1,12 +1,9 @@
-<h1 align="center">Elo 👋, I'm Iskandar</h1>
+<h1 align="center">Elo I'm Iskandar 👋</h1>
 <h3 align="center">A passionate Software Developer from Malaysia 🇲🇾</h3>
-
 
 - 🧑🏻‍💻 I’m currently using **LAMP Stack** and in the same time 📚 exploring and learning **MERN Stack**
 
 - 📫 How to reach me **admiskandar@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DrT3ufc3VxE_7fTm4F8rdvpbIAAfyxNp/view?usp=sharing](https://drive.google.com/file/d/1DrT3ufc3VxE_7fTm4F8rdvpbIAAfyxNp/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
