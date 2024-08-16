@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Malaysia 🇲🇾</h3>
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🧑🏻‍💻 I’m currently using **LAMP Stack** and in the same time 📚 exploring and learning **MERN Stack**
 
 - 📫 How to reach me **admiskandar@gmail.com**
 
